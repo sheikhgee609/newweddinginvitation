@@ -39,7 +39,7 @@ const WC = {
 
   /* ── MAP ─────────────────────────────────────────────── */
   // Google Maps: maps.google.com → cari venue → Share → Embed a map → copy src URL
-  mapEmbedUrl: "https://www.google.com/maps/place/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%8A%E0%B8%B2+%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B9%81%E0%B8%81%E0%B8%87+Pok+Teh/@6.1093597,101.8759894,760m/data=!3m1!1e3!4m6!3m5!1s0x31b4111c735228b5:0xa1534055e312ca62!8m2!3d6.1075569!4d101.8805166!16s%2Fg%2F11sy0rm5r3?entry=ttu&g_ep=EgoyMDI2MDYyMS4wIKXMDSoASAFQAw%3D%3D",
+  mapEmbedUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3311.1369364863363!2d101.87848919284528!3d6.108388947840296!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31b4111c735228b5%3A0xa1534055e312ca62!2z4Lij4LmJ4Liy4LiZ4LiZ4LmJ4Liz4LiK4LiyIOC4guC5ieC4suC4p-C5geC4geC4hyBQb2sgVGVo!5e1!3m2!1sen!2s!4v1782300967525!5m2!1sen!2s",
   city:        "Todeng, Narathiwat, Thailand",
 
   /* ── PHOTOS ──────────────────────────────────────────── */
