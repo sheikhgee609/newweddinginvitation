@@ -14,33 +14,33 @@ const WC = {
   brideInitial:   "S",
 
   /* ── MEHNDI ──────────────────────────────────────────── */
-  mehndiDate:     "Friday, 12 December 2025",
-  mehndiTime:     "8:00 PM",
-  mehndiDateISO:  "2025-12-12T20:00:00",
+  mehndiDate:     "Sunday, 16 August 2026",
+  mehndiTime:     "12:00 PM",
+  mehndiDateISO:  "2026-08-16T12:00:00",
   mehndiVenue:    "Faiz Family Residence, Petaling Jaya",
   mehndiDress:    "Traditional Colours / Baju Kurung",
 
   /* ── BARAT ───────────────────────────────────────────── */
-  baratDate:      "Saturday, 13 December 2025",
-  baratTime:      "7:00 PM",
-  baratDateISO:   "2025-12-13T19:00:00",
+  baratDate:      "Sunday, 16 August 2026",
+  baratTime:      "01:00 PM",
+  baratDateISO:   "2026-08-16T12:00:00",
   baratVenue:     "The Grand Ballroom, Kuala Lumpur",
   baratDress:     "Formal Attire / Baju Melayu Diraja",
 
   /* ── WALIMA ──────────────────────────────────────────── */
-  walimaDate:     "Sunday, 14 December 2025",
+  walimaDate:     "Sunday, 16 August 2026",
   walimaTime:     "12:00 PM",
-  walimaDateISO:  "2025-12-14T12:00:00",
+  walimaDateISO:  "2026-08-16T12:00:00",
   walimaVenue:    "The Grand Ballroom, Kuala Lumpur",
   walimaDress:    "Smart Casual / Baju Melayu",
 
   /* ── COUNTDOWN TARGET (main event) ──────────────────── */
-  countdownTarget: "2025-12-13T19:00:00",
+  countdownTarget: "2026-08-16T12:00:00",
 
   /* ── MAP ─────────────────────────────────────────────── */
   // Google Maps: maps.google.com → cari venue → Share → Embed a map → copy src URL
-  mapEmbedUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3983.8!2d101.6869!3d3.1390!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cc49c701efeae7%3A0xf4d98e5b2f1b9b8b!2sKuala%20Lumpur%20City%20Centre!5e0!3m2!1sen!2smy!4v1234567890",
-  city:        "Kuala Lumpur, Malaysia",
+  mapEmbedUrl: "https://www.google.com/maps/place/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%8A%E0%B8%B2+%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B9%81%E0%B8%81%E0%B8%87+Pok+Teh/@6.1093597,101.8759894,760m/data=!3m1!1e3!4m6!3m5!1s0x31b4111c735228b5:0xa1534055e312ca62!8m2!3d6.1075569!4d101.8805166!16s%2Fg%2F11sy0rm5r3?entry=ttu&g_ep=EgoyMDI2MDYyMS4wIKXMDSoASAFQAw%3D%3D",
+  city:        "Todeng, Narathiwat, Thailand",
 
   /* ── PHOTOS ──────────────────────────────────────────── */
   // Ganti dengan URL gambar pasangan anda (min 1600px lebar)
@@ -67,7 +67,7 @@ const WC = {
   musicLabel: "♪ Lagu Kami",
 
   /* ── RSVP ────────────────────────────────────────────── */
-  rsvpDeadline: "1 December 2025",
+  rsvpDeadline: "16 August 2026",
 
   // Formspree: buat akaun percuma di formspree.io, tampal ID borang anda
   formspreeId:    "",
